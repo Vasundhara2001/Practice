@@ -1,9 +1,0 @@
-Welcome to the May 2023 release of Visual Studio Code. There are many updates in this version that we hope you'll like, some of the key highlights include:
-
-Read-only mode - Mark specific files and folders in your workspace as read-only.
-'Paste as' options - Choose how you'd like item links pasted into the editor.
-Automatic copy of external files - Drag or paste to Markdown adds new files to your workspace.
-Default Git repo branch name - Use "main" as the default or override via a user setting.
-Notebooks rich content search - Search based on Notebook output or filter on cell type.
-Preview: GitHub Copilot Chat improvements - Easily manage your chat session history. Inline chat "live preview."
-Linked editing for JSX tags - Simultaneously change opening and closing JSX tags.
